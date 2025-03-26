@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Prashanth AP</h1>
-<h3 align="center">Aspiring Data Scientist and AI enthusiast</h3>
+<h3 align="center">Aspiring Software developer</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-- 🌱 I’m currently learning **Data Science**
+- 🌱 I’m currently learning **AI/ML**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Prashanth-AP](https://github.com/Prashanth-AP)
 
-- 💬 Ask me about **AI**
+- 💬 Ask me about **Tech**
 
 - 📫 How to reach me **apprashanth11@gmail.com**
 
